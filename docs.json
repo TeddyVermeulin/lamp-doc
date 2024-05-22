@@ -2,7 +2,7 @@
   "name": "docs.page",
   "theme": "#DD007E",
   "sidebar": [
-    ["Accueil", "/"],
+    ["Accueil", "/"]
   ],
   "anchors": [
     {
