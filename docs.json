@@ -1,8 +1,9 @@
 {
-  "name": "docs.page",
+  "name": "lamp",
   "theme": "#DD007E",
   "logo": "/assets/logotype.svg",
   "logoDark": "/assets/logotype.svg",
+  "noindex": true,
   "sidebar": [
     ["Accueil", "/"]
   ],
