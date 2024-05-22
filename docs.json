@@ -1,6 +1,6 @@
 {
   "name": "docs.page",
-  "theme": "#36B9B9",
+  "theme": "#DD007E",
   "sidebar": [
     ["Home", "/"],
     ["Another Page", "/another-page"]
