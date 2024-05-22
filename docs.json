@@ -1,6 +1,8 @@
 {
   "name": "docs.page",
   "theme": "#DD007E",
+  "logo": "/assets/logotype.svg",
+  "logoDark": "/assets/logotype.svg",
   "sidebar": [
     ["Accueil", "/"]
   ],
