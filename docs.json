@@ -2,8 +2,7 @@
   "name": "docs.page",
   "theme": "#DD007E",
   "sidebar": [
-    ["Home", "/"],
-    ["Another Page", "/another-page"]
+    ["Accueil", "/"],
   ],
   "anchors": [
     {
