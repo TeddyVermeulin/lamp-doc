@@ -13,5 +13,10 @@
       "icon": "house",
       "link": "https://www.lamp-ic.fr/"
     }
-  ]
+  ],
+  "docsearch": {
+    "apiKey": "988544825f028a6ae3a4e38789e5d95d",
+    "appId": "GX1FFWWNS3",
+    "indexName": "lamp-ic"
+  }
 }
